@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <ElectricButcherTable.label>屠宰台（电力）</ElectricButcherTable.label>
+    <ElectricButcherTable.description>一个用于将死掉的动物宰成肉块的厚重桌子。腐烂或风化的尸体不能被屠宰。在没电时的工作速度只有平时的50%。</ElectricButcherTable.description>
+</LanguageData>
