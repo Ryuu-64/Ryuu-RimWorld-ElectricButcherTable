@@ -6,8 +6,13 @@
     <supportedVersions>
         <li>1.4</li>
     </supportedVersions>
-    <description>Electric Butcher Table</description>
+    <description>This mod only contains an electric butcher table. The efficiency of an electric butcher table is 200% that of a butcher table. But like the electric production buildings in RimWorld, construction requires components and can breakdown.
+
+Please feel free to speak up if you have any suggestions or comments.
+
+source project link: https://github.com/Ryuu-64/Ryuu-RimWorld-ElectricButcherTable
+
+Contributors:
+scott2521(76561198073525178): Fixed the electric butcher table description.
+    </description>
 </ModMetaData>
-
-
-
